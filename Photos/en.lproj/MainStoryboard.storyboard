@@ -24,7 +24,7 @@
             <objects>
                 <viewController id="7Mn-17-i0Q" customClass="Photos1ViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kFV-sE-3gV">
-                        <rect key="frame" x="0.0" y="64" width="320" height="504"/>
+                        <rect key="frame" x="0.0" y="20" width="320" height="504"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <imageView contentMode="scaleToFill" image="xcode.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="NNR-Af-5n3">
